@@ -1,0 +1,5 @@
+rootProject.name = 'Leetcode-java'
+include 'Leetcode34-FindFirst-and-LastPosition-of-Element-in-SortedArray'
+include '19-Remove-Nth-Node-From-End-of-List'
+include 'all-in-one'
+
